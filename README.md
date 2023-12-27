@@ -21,3 +21,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-umar&show_icons=true&locale=en" alt="mr-umar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-umar&" alt="mr-umar" /></p>
+
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
