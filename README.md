@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-umar" alt="mr-umar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [umarmohammad.xyz](umarmohammad.xyz)
+- 👨‍💻 All of my projects are available at [umarmohammad.xyz](https://umarmohammad.xyz/)
 
 - 📫 How to reach me **r.umar.mohammad@gmail.com**
-
-- 📄 Know about my experiences [https://umarmohammad.xyz/curriculum/](https://umarmohammad.xyz/curriculum/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
