@@ -7,9 +7,9 @@
 - ➕ More on <a href="https://www.linkedin.com/in/umar-mohammad-riaz/" target="_blank">LinkedIn</a>
 
 ---
-<p align="justify">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
+
 ---
 
 <p align="justify">
