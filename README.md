@@ -7,8 +7,6 @@
 - 📫 How to reach me **umar@umarmohammad.xyz**
 - ➕ More on <a href="https://www.linkedin.com/in/umar-mohammad-riaz/" target="_blank">LinkedIn</a>
 
-- <a href="http://example.com/" target="_blank">Hello, world!</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
