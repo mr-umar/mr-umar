@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 👨‍💻 Check my site: [umarmohammad.xyz](https://umarmohammad.xyz/){:target="_blank"}
+- 👨‍💻 Check my site: <a href="https://umarmohammad.xyz/" target="umarmohammad.xyz">
 - 📫 How to reach me **umar@umarmohammad.xyz**
-- ➕ More on [LinkedIn](https://www.linkedin.com/in/umar-mohammad-riaz/){:target="_blank"}
+- ➕ More on <a href="[http://example.com/](https://www.linkedin.com/in/umar-mohammad-riaz/)" target="_blank">
 
 - <a href="http://example.com/" target="_blank">Hello, world!</a>
 
