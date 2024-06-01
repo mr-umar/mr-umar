@@ -11,4 +11,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-⬇️ Some of my public repos ⬇️
+
+<p style="text-align: center;">⬇️ Some of my public repos ⬇️</p>
+
