@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Umar</h1>
+![Hi 👋, I'm Umar](https://github.com/user-attachments/assets/ba747f7e-0e64-4d13-b220-f8463b03561a)
+
 
 <h3 align="left">Connect with me:</h3>
 
