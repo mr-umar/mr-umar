@@ -13,6 +13,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
-<p align="justify">
-  **⬇️ Some of my public repos ⬇️**
+<h3 align="justify">
+  ⬇️ Some of my public repos ⬇️
 </p>
