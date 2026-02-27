@@ -6,7 +6,7 @@
 
 - 👨‍💻 **Check my site:** <a href="https://umarmohammad.xyz/" target="_blank">umarmohammad.xyz</a>
 - 🛠️ **Useful docs:** <a href="https://docs.umarmohammad.xyz/" target="_blank">docs.umarmohammad.xyz</a>
-- 🎣 **Tutaim: Phishing detector:** <a href="https://tutaim.com/" target="_blank">tutaim.com</a>
+- 🎣 **Tutaim - Phishing detector:** <a href="https://tutaim.com/" target="_blank">tutaim.com</a>
 - 📫 **How to reach me:** **umar@umarmohammad.xyz**
 - ➕ More on <a href="https://www.linkedin.com/in/umar-mohammad-riaz/" target="_blank">**LinkedIn**</a>
 
